@@ -10,5 +10,13 @@
   },
   "devDependencies": {
     "vite": "^5.0.8"
-  }
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
